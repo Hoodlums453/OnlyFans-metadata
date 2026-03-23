@@ -3,15 +3,5 @@
   "symbol": "ONLYF",
   "description": "only fans token on Solana",
   "image": "https://raw.githubusercontent.com/Hoodlums453/OnlyFans-metadata/main/OnlyFans%20JPEG.jpg",
-  "external_url": "https://onlyfans.com",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/Hoodlums453/OnlyFans-metadata/main/OnlyFans%20JPEG.jpg",
-        "type": "image/jpeg"
-      }
-    ],
-    "category": "image"
-  }
+  "twitter": "https://x.com/youronlyfans"
 }
